@@ -1,22 +1,10 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset = "utf-8">
-    <link href="/css/404_view.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camagru | 404</title>
 </head>
-<title> Page Error </title>
 <body>
-<div id = "upper">
-    <link rel="stylesheet" type="text/css" href="/css/style.css" />
-    <script src="/js/jquery-1.6.2.js" type="text/javascript"></script>
-    <a id = "up" href="signin1.php"><p id = "login"> Log in</p></a>
-</div>
-<br/>
-
-<div>
-   <h1> Sorry, this page isn't available. </h1>
-    <h3>The link you followed may be broken, or the page may have been removed.</h3>
-</div>
-
+    <h1 style="text-align:center">404</h1>
+    <h2 style="text-align:center">PAGE NOT FOUND</h2>
 </body>
 </html>
